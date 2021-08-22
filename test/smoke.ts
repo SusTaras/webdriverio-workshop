@@ -1,7 +1,7 @@
 
-describe('Smoke test', () => {
-    it('ducks should be alive', () => {
-        browser.url('/')
-        expect(browser).toHaveTitle('Ducks Store | Online Store');
-    })
-})
+// describe('Smoke test', () => {
+//     it('Tools QA Should be Alive', () => {
+//         browser.url('/')
+//         expect(browser).toHaveTitle('ToolsQA');
+//     })
+// })
