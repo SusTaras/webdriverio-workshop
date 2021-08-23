@@ -13,7 +13,7 @@ export const config: Config = {
         browserName: 'chrome'
     }],
     // Level of logging verbosity: trace | debug | info | warn | error | silent
-    logLevel: 'info',
+    logLevel: 'warn',
     baseUrl: 'https://demoqa.com/',
     waitforTimeout: 10000,
     connectionRetryTimeout: 120000,
